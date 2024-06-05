@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Compose Experiment</string>
+
+    <string name="ganesh_title">Ganesha</string>
+    <string name="logo_description">Ganesh Logo</string>
+    <string name="ganesh_info">Ganesh is a Hindu God.
+        he is readily identified by his elephant head and four arms.
+        He is widely revered, more specifically, as the remover of obstacles and thought to bring good luck.
+        The patron of arts and sciences; and the deva of intellect and wisdom.
+        As the god of beginnings, he is honoured at the start of rites and ceremonies.
+    </string>
+
+
+    <string name="login_button_face">Login</string>
+    <string name="info_button_face">Info</string>
 </resources>
